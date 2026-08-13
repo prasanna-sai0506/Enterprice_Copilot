@@ -1,0 +1,7 @@
+Apex Forge — Employee Handbook
+Working hours are 9:30 to 18:30 IST, Monday to Friday, with a hybrid model of 3 days in office.
+Earned leave: 20 days per year. Casual leave: 7 days. Sick leave: 10 days.
+Leave is requested in Workday at least 2 days in advance.
+The employee helpdesk is people@apexforge.com.
+Engineering uses GitHub Enterprise. Production access requires manager approval.
+Salary discussions are confidential and handled only by HR.

@@ -1,0 +1,6 @@
+Infosys Limited — IT Acceptable Use Policy
+Company laptops must have Infosys endpoint protection enabled.
+USB storage is disabled on production networks.
+VPN (Pulse) is mandatory off-campus.
+Password rotation every 90 days. MFA required for all SaaS tools.
+Report incidents to askhr@infosys.com and the SOC within 1 hour.
